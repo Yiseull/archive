@@ -23,9 +23,9 @@
 ## 🍒 데브코스 월간 회고록
 |번호|제목|
 |------|---|
-|1|[[백엔드 데브코스 4기] 1달차 회고](https://yiseull.tistory.com/5)https://yiseull.tistory.com/5)|
-|2|[[백엔드 데브코스 4기] 2달차 회고](https://yiseull.tistory.com/5)https://yiseull.tistory.com/10)|
-|3|[[백엔드 데브코스 4기] 3달차 회고](https://yiseull.tistory.com/5)https://yiseull.tistory.com/18)|
+|1|[[백엔드 데브코스 4기] 1달차 회고](https://yiseull.tistory.com/5)|
+|2|[[백엔드 데브코스 4기] 2달차 회고](https://yiseull.tistory.com/10)|
+|3|[[백엔드 데브코스 4기] 3달차 회고](https://yiseull.tistory.com/18)|
 
 ## 💜 데브코스 활동 중에 작성한 포스팅
 |번호|제목|
