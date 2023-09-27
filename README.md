@@ -12,7 +12,7 @@
 ## 🌿 프로젝트
 
 ## 🎙️ 백둥이 발표
-Java Reflection 발표
+### Java Reflection 발표
 - 발표 영상 링크는 추후에 올리겠습니다.
 
 ## 🌈 스터디
@@ -23,4 +23,12 @@ Java Reflection 발표
 ## 🍒 데브코스 월간 회고록
 |번호|제목|
 |------|---|
-|1|[[백엔드 데브코스 4기 1달차 회고](https://github.com/Yiseull/swea-python3/blob/main/%EB%B3%B4%ED%98%B8%ED%95%84%EB%A6%84.py](https://yiseull.tistory.com/5)https://yiseull.tistory.com/5)|
+|1|[[백엔드 데브코스 4기] 1달차 회고](https://yiseull.tistory.com/5)https://yiseull.tistory.com/5)|
+|2|[[백엔드 데브코스 4기] 2달차 회고](https://yiseull.tistory.com/5)https://yiseull.tistory.com/10)|
+|3|[[백엔드 데브코스 4기] 3달차 회고](https://yiseull.tistory.com/5)https://yiseull.tistory.com/18)|
+
+## 💜 데브코스 활동 중에 작성한 포스팅
+|번호|제목|
+|------|---|
+|1|[[특강 회고] 함께 자라기 - 김창준님](https://yiseull.tistory.com/5)|
+|2|[Java 17의 Sealed Class and Interface](https://yiseull.tistory.com/5)|
