@@ -17,7 +17,8 @@
 - 저희 팀은 '배달의 민족'을 클론 코딩하였습니다.
 - [레포지토리 바로가기](https://github.com/prgrms-be-devcourse/BE-04-HiMin)
 ### 최종 프로젝트
-- 프론트와 협업하여 프로젝트를 진행(할 예정)
+- 취미 아이템 구매를 위한 결정을 도와주는 서비스를 개발 중입니다.
+- [레포지토리 바로 가기](https://github.com/bucket-back/bucket-back-backend)
 
 ## 🎙️ 백둥이 발표
 ### Java Reflection 발표
@@ -36,9 +37,13 @@
 |1|[[백엔드 데브코스 4기] 1달차 회고](https://yiseull.tistory.com/5)|
 |2|[[백엔드 데브코스 4기] 2달차 회고](https://yiseull.tistory.com/10)|
 |3|[[백엔드 데브코스 4기] 3달차 회고](https://yiseull.tistory.com/18)|
+|4|[[백엔드 데브코스 4기] 백엔드 클론 API 프로젝트 회고](https://yiseull.tistory.com/19)|
 
 ## 💜 데브코스 활동 중에 작성한 포스팅
 |번호|제목|
 |------|---|
 |1|[[특강 회고] 함께 자라기 - 김창준님](https://yiseull.tistory.com/5)|
 |2|[Java 17의 Sealed Class and Interface](https://yiseull.tistory.com/5)|
+|3|[[오늘의 배움] MySQL 커버링 인덱스](https://yiseull.tistory.com/21)|
+|4|[@RequestBody가 요청 값을 RequestDTO로 바인딩할 때 어떤 코드가 필요할까?](https://yiseull.tistory.com/23)|
+|5|[[오늘의 배움] JPA Cascade 맛보기](https://yiseull.tistory.com/24)|
