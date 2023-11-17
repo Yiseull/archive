@@ -10,7 +10,7 @@
 |5주차|스프링부트 Part3 위클리 미션|https://github.com/Yiseull/springboot-basic|[#816](https://github.com/prgrms-be-devcourse/springboot-basic/pull/816)|
 |8~9주차|JPA로 게시판 구현 미션|https://github.com/HandmadeCloud/springboot-board-jpa|[#255](https://github.com/prgrms-be-devcourse/springboot-board-jpa/pull/255)|
 |8~9주차|스프링부트 JPA 위클리 미션|https://github.com/Yiseull/springboot-jpa|[#327](https://github.com/prgrms-be-devcourse/springboot-jpa/pull/327)|
-|11~12주차|ShortURL 구현 제출|https://github.com/Yiseull/springboot-url-shortener|진행 중|
+|11~12주차|ShortURL 구현 제출|https://github.com/Yiseull/springboot-url-shortener|[#39](https://github.com/prgrms-be-devcourse/springboot-url-shortener/pull/39)|
 
 ## 🌿 프로젝트
 ### 백엔드 클론 API 프로젝트
