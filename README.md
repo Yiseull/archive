@@ -16,18 +16,20 @@
 ### 백엔드 클론 API 프로젝트
 - 저희 팀은 '배달의 민족'을 클론 코딩하였습니다.
 - [레포지토리 바로가기](https://github.com/prgrms-be-devcourse/BE-04-HiMin)
+
 ### 최종 프로젝트
 - 취미 아이템 구매를 위한 결정을 도와주는 서비스를 개발 중입니다.
 - [레포지토리 바로 가기](https://github.com/bucket-back/bucket-back-backend)
 
 ## 🎙️ 백둥이 발표
 ### Java Reflection 발표
-- 발표 영상 링크는 추후에 올리겠습니다.
+- [발표 영상 보러가기](https://youtu.be/C4zgCe0JZcE?si=dDaG7LwM7EHoD97s)
 
 ## 🌈 스터디
 ### navy-nextstep-study
 - nextstep의 자바 플레이그라운드 with TDD, 클린 코드에 대한 과제를 매주 수행하여, 객체지향적인 개발을 더 잘하기 위한 스터디입니다.
 - [스터디 레포지토리 바로가기](https://github.com/navy-nextstep-study)
+
 ### 알고리즘 알고리고
 - 매일 프로그래머스에서 알고리즘 1문제씩 풀고 풀이 방식을 발표하는 스터디입니다.
 
@@ -47,3 +49,5 @@
 |3|[[오늘의 배움] MySQL 커버링 인덱스](https://yiseull.tistory.com/21)|
 |4|[@RequestBody가 요청 값을 RequestDTO로 바인딩할 때 어떤 코드가 필요할까?](https://yiseull.tistory.com/23)|
 |5|[[오늘의 배움] JPA Cascade 맛보기](https://yiseull.tistory.com/24)|
+|6|[[오늘의 배움] cannot reliably process 'remove' call 해결 - 커스텀 쿼리 메서드의 트랜잭션](https://yiseull.tistory.com/25)|
+
