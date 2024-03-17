@@ -21,10 +21,6 @@
 - 배달의 민족 클론 프로젝트
 - [GitHub](https://github.com/prgrms-be-devcourse/BE-04-HiMin)
 
-## 📍 활동 내용
-#### 백둥이 발표
-- [Java Reflection 발표](https://youtu.be/C4zgCe0JZcE?si=dDaG7LwM7EHoD97s)
-
 #### CS 스터디 운영
 - 기술 면접을 위해 CS 키워드에 해당하는 지식을 학습하고, 모의 면접을 진행하는 스터디
 - [GitHub](https://github.com/hi-min-study/cs-study-for-tech-interview)
